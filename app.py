@@ -96,7 +96,7 @@ plt.close(fig)
 st.markdown("---")
 st.markdown(
     "<div style='text-align:center; font-size:12px; color:gray;'>"
-    "Người tạo: [HỌ VÀ TÊN CỦA BẠN] | MSSV: [MÃ SỐ SINH VIÊN]"
+    "Người tạo: [Nguyễn Thị Ngọc Loan] | MSSV: [019308009733]"
     "</div>",
     unsafe_allow_html=True
 )
